@@ -34,8 +34,6 @@ scratch and fresh ideas).
 👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks,
 overthrowing capitalism.
 
-💬 **Ask me about**: that time I invented a new risotto recipe during quarantine, or anything Gatsby-related.
-
 ⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
 flipping tortillas. I know I can do it. My girlfriend disagrees.
 
