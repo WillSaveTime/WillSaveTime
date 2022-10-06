@@ -1,5 +1,9 @@
 Welcome to my github profile page.
 
+``I'm a Full Stack / Blockchain developer. I'm always willing to learn things very quickly``
+
+_I see changes as a positive thing and I'm always embraces it for the better good of the company. And I would put the needs of my team first and try to overcome the conflict so we could quickly move forward_
+
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
