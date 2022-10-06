@@ -1,10 +1,5 @@
 Welcome to my github profile page.
 
-🔭 **I’m currently working on**: Defi, Dapp, NFT marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap)  and other Ecommerce sites (for real though, I love starting stuff from
-scratch and fresh ideas).
-
-``These are my skills and experience``
-
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
@@ -29,18 +24,4 @@ scratch and fresh ideas).
  <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
  <span>...</span>
 </p>
-🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **React**.
-
-👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks,
-overthrowing capitalism.
-
-⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
-flipping tortillas. I know I can do it. My girlfriend disagrees.
-
-
 <br/>
-## 👨🏻‍💻 Check out my GitHub stats
-
-
-If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
-![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
