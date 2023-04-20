@@ -28,11 +28,4 @@ _I see changes as a positive thing and I'm always embraces it for the better goo
  <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
  <span>...</span>
 </p>
-<div align="center">
-  <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      These are my contact info
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-</div>
 <br/>
