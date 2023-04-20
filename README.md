@@ -34,15 +34,5 @@ _I see changes as a positive thing and I'm always embraces it for the better goo
       These are my contact info
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
   </h2>
-
-  <div align="center"> 
-    <a href="mailto:cooker0910@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/wZERri6MkOpj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/athena_kj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://discordapp.com/users/916160983716741150" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
-  </div>
 </div>
 <br/>
